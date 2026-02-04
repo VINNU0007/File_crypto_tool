@@ -171,3 +171,6 @@ Users are responsible for complying with applicable laws and regulations.
 👤 Author
 
 Vinay Kumar Vallala
+
+OUTPUT :
+<img width="648" height="583" alt="Image" src="https://github.com/user-attachments/assets/43e2ed03-1ed2-43fc-b565-9dba6787d652" />
