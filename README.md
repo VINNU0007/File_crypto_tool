@@ -1,3 +1,10 @@
+PROJECT NAME : FILE_CRYPTO_TOOL
+COMPANY NAME : CODTECH IT SOLUTIONS 
+NAME : VALLALA VINAY KUMAR 
+INTERN ID : CTIS4502 
+DURATION : 6 WEEKS 
+MENTOR NAME : NEELA SANTHOSH KUMAR
+
 Overview
 
 This project is a Python-based file encryption and decryption tool that securely protects files using AES-256 encryption. It follows industry-standard cryptographic practices, including secure key derivation, random salt, and initialization vectors (IV).
